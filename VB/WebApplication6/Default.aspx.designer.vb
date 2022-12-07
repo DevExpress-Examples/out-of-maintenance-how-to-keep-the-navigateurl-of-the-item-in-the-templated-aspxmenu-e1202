@@ -38,7 +38,7 @@ Namespace WebApplication6
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxMenu1 As Global.DevExpress.Web.ASPxMenu.ASPxMenu
+		Protected ASPxMenu1 As Global.DevExpress.Web.ASPxMenu
 
 		''' <summary>
 		''' ASPxSiteMapDataSource1 control.
@@ -47,6 +47,6 @@ Namespace WebApplication6
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxSiteMapDataSource1 As Global.DevExpress.Web.ASPxSiteMapControl.ASPxSiteMapDataSource
+		Protected ASPxSiteMapDataSource1 As Global.DevExpress.Web.ASPxSiteMapDataSource
 	End Class
 End Namespace

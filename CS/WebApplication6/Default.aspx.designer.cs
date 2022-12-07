@@ -35,7 +35,7 @@ namespace WebApplication6 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxMenu.ASPxMenu ASPxMenu1;
+        protected global::DevExpress.Web.ASPxMenu ASPxMenu1;
         
         /// <summary>
         /// ASPxSiteMapDataSource1 control.
@@ -44,6 +44,6 @@ namespace WebApplication6 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxSiteMapControl.ASPxSiteMapDataSource ASPxSiteMapDataSource1;
+        protected global::DevExpress.Web.ASPxSiteMapDataSource ASPxSiteMapDataSource1;
     }
 }
